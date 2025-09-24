@@ -36,7 +36,7 @@ Enter Directory
 ```
 Then run
 ```
-python TSPpw.py --sampler=<SAMPLER> 
+python TSP.py --sampler=<SAMPLER> 
 ```
 
 ## Binary Bayesian Neural Networks
