@@ -10,7 +10,7 @@ Logistic Bridging, accepted in International Conference on Artificial Intelligen
 Logistic Bridging},
   author={Mohanty, Pinaki and Zhang, Ruqi},
   journal={International Conference on Artificial Intelligence and Statistics},
-  year={2029=6}
+  year={2026}
 }
 ```
 
