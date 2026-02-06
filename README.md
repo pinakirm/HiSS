@@ -1,6 +1,18 @@
 # HiSS
 
+This repository contains code for the paper Slithering through Gaps: Capturing Discrete Isolated Modes via
+Logistic Bridging, accepted in International Conference on Artificial Intelligence and Statistics (AISTATS), 2026.
 
+
+```bibtex
+@article{mohanty2026hiss,
+  title={Slithering through Gaps: Capturing Discrete Isolated Modes via
+Logistic Bridging},
+  author={Mohanty, Pinaki and Zhang, Ruqi},
+  journal={International Conference on Artificial Intelligence and Statistics},
+  year={2029=6}
+}
+```
 
 
 # Introduction
